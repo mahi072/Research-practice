@@ -1,5 +1,7 @@
 # Research-practice
-Worked on Random forest regression model, Leave one out cross validation and Support vector machine
+Worked on Random forest regression model, Leave one out cross validation and Support vector machine.
+
+
 **Leave one out cross validation:**
 The LOOCV method is utilized to assess the accuracy of machine learning algorithms in predicting data that was not employed to develop the model. 
 While it produces a dependable and impartial appraisal of the model's performance, it can be resource-intensive to implement. Even though it is 
